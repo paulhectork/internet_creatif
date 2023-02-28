@@ -10,6 +10,13 @@
   *web native* pour une thèse. refléxions sur les manières d'unifier publication papier et web.
 - [back office](http://www.revue-backoffice.com/): revue *peer reviewed* sur le design, avec une
   orientation très théorique/politique
+- [les papiers Barye](https://barye.inha.fr/): site avec plein de trucs intéressants, autant du point
+  de vue de l'esthétique que sur la manière de représenter la matérialité d'un corpus sur une appli Web,
+  sur la manière de rendre une édition TEI lisible, de multiplier les manières d'interagir avec et
+  d'accéder à un corpus TEIs, autant du point
+  de vue de l'esthétique que sur la manière de représenter la matérialité d'un corpus sur une appli Web,
+  sur la manière de rendre une édition TEI lisible, de multiplier les manières d'interagir avec et
+  d'accéder à un corpus TEI...
 
 ## sites de designers
 - [e+k](http://www.e-k.fr/): design et web design. design du magasine *Back Office*, du site *DesignSHS*...
@@ -21,5 +28,11 @@
 ## sites d'artistes, musicien.ne.s et labels
 
 - [isa melsheimer](https://isamelsheimer.com/): artiste. site très contre-intuitif : )
-- [mohammed boursuissa](https://www.mohamedbourouissa.com/): <3 sur l'artiste 
+- [mohammed boursouissa](https://www.mohamedbourouissa.com/): <3 sur l'artiste 
 - [pc music](https://pcmusic.info/): magnifique bleu et magnifique transition du logo pleine-page à banner au début
+
+## divers
+
+- [do not research](https://donotresearch.net/): plateforme qui publie des articles sur la politique
+  post-internet / theorygram etc / la post-gauche etc. exemple d'un site *très* simple mais visuellement
+  efficace.
