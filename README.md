@@ -17,6 +17,8 @@
   de vue de l'esthétique que sur la manière de représenter la matérialité d'un corpus sur une appli Web,
   sur la manière de rendre une édition TEI lisible, de multiplier les manières d'interagir avec et
   d'accéder à un corpus TEI...
+- [richard stallman](https://stallman.org/): à peine une ligne de css là dedans, un site franchement
+  dur à lire, pour se rapeler ce que le css change dans la vie de tous les jours : )
 
 ## sites de designers
 - [e+k](http://www.e-k.fr/): design et web design. design du magasine *Back Office*, du site *DesignSHS*...
