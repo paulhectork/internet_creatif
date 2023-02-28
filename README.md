@@ -26,6 +26,7 @@
   avec une refléxion sur la représentation du texte de manière dynamique.
 - [stephen lumenta](https://stephenlumenta.com/): programmeur sur le site d'Isa Melsheimer, design ridiculement 
   simple mais efficace : )
+- [quentin barba](https://quentinbarba.fr/): design très *impact*
 
 ## sites d'artistes, musicien.ne.s et labels
 
