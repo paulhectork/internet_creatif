@@ -27,6 +27,12 @@
 - [stephen lumenta](https://stephenlumenta.com/): programmeur sur le site d'Isa Melsheimer, design ridiculement 
   simple mais efficace : )
 - [quentin barba](https://quentinbarba.fr/): design très *impact*
+- [arnaud juracek](https://arnaudjuracek.fr/): truc tout simple, mais interaction très sympa avec le mouvement
+  de la souris. le code est disponible sur [github](https://github.com/arnaudjuracek/www-arnaudjuracek) : )
+- [praticable](https://praticable.fr/): coopérative de design avec Pierre-Damien Huyghe. en plus de quelques textes
+  intéressants et d'une mise en page sympa organisée en blocs. possibilité d'éditer les blocs, drag and dropper ses 
+  blocs, ajouter du texte... le studio fait aussi de la recherche, il y a des articles sur l'accessibilité numérique
+  etc.
 
 ## sites d'artistes, musicien.ne.s et labels
 
