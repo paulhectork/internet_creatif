@@ -33,11 +33,11 @@
 - [isa melsheimer](https://isamelsheimer.com/): artiste. site très contre-intuitif : )
 - [mohammed boursouissa](https://www.mohamedbourouissa.com/): <3 sur l'artiste 
 - [pc music](https://pcmusic.info/): magnifique bleu et magnifique transition du logo pleine-page à banner au début
-- [umru
+- [umru](https://umru.dj/): <3
 
 ## divers
 
 - [do not research](https://donotresearch.net/): plateforme qui publie des articles sur la politique
   post-internet / theorygram etc / la post-gauche etc. exemple d'un site *très* simple mais visuellement
   efficace.
-- [52emblemes](https://github.com/paulhectork/internet_creatif.git): card readings
+- [52emblemes](http://46.226.106.57/52emblemes/): card reading by the one and only jcc
