@@ -8,7 +8,9 @@
 d'écritures/lectures propres au Web.
 - [parametric press](https://parametric.press/): tous les articles sont interactifs.
 - [distill](https://distill.pub/): revue maintenant inactive sur le machine learning avec
-  une approche design interactive. cf [cet article](https://distill.pub/)
+  une approche design interactive. cf [cet article](https://distill.pub/) et 
+  [cet article](https://distill.pub/2020/communicating-with-interactive-articles/)
+  sur l'écriture interactive.
 
 ## chercheur.euse.s et sites de recherche
 
