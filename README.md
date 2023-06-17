@@ -2,7 +2,15 @@
 
 ![bannière](./img/banner.png)
 
-## chercheur.euse.s et de recherche
+## écritures interactives
+
+écriture interactive: articles qui combinent design, code et texte pour créer des formes
+d'écritures/lectures propres au Web.
+- [parametric press](https://parametric.press/): tous les articles sont interactifs.
+- [distill](https://distill.pub/): revue maintenant inactive sur le machine learning avec
+  une approche design interactive. cf [cet article](https://distill.pub/)
+
+## chercheur.euse.s et sites de recherche
 
 - [designSHS](https://laboratoire-graphique.fr/): ANR en graphisme et sciences sociales
 - [anthony masure](https://www.anthonymasure.com/): recherche en design
