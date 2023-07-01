@@ -44,6 +44,7 @@ d'écritures/lectures propres au Web.
 - [mohammed boursouissa](https://www.mohamedbourouissa.com/): <3 sur l'artiste 
 - [pc music](https://pcmusic.info/): magnifique bleu et magnifique transition du logo pleine-page à banner au début
 - [umru](https://umru.dj/): <3
+- [éditions divergences](https://www.editionsdivergences.com/): <33
 
 ## divers
 
