@@ -48,6 +48,7 @@ d'écritures/lectures propres au Web.
 
 ## divers
 
+- [error.re](https://www.error.re), design et interactions assez incroyables
 - [do not research](https://donotresearch.net/): plateforme qui publie des articles sur la politique
   post-internet / theorygram etc / la post-gauche etc. exemple d'un site *très* simple mais visuellement
   efficace.
