@@ -12,7 +12,7 @@ d'écritures/lectures propres au Web.
   [cet article](https://distill.pub/2020/communicating-with-interactive-articles/)
   sur l'écriture interactive.
 
-## chercheur.euse.s et sites de recherche
+## sites de chercheur.euse.s et de recherche
 
 - [designSHS](https://laboratoire-graphique.fr/): ANR en graphisme et sciences sociales
 - [anthony masure](https://www.anthonymasure.com/): recherche en design
@@ -30,26 +30,37 @@ d'écritures/lectures propres au Web.
 - [richard stallman](https://stallman.org/): à peine une ligne de css là dedans, un site franchement
   dur à lire, pour se rapeler ce que le css change dans la vie de tous les jours : )
 
-## designers
+## sites de designers
 - [e+k](http://www.e-k.fr/): design et web design. design du magasine *Back Office*, du site *DesignSHS*...
 - [passages[...]](https://passages.site/): design du site du Musée de la Chasse et de la Nature. design sympa
   avec une refléxion sur la représentation du texte de manière dynamique.
 - [stephen lumenta](https://stephenlumenta.com/): programmeur sur le site d'Isa Melsheimer, design ridiculement 
   simple mais efficace : )
 - [quentin barba](https://quentinbarba.fr/): design très *impact*
+- [arnaud juracek](https://arnaudjuracek.fr/): truc tout simple, mais interaction très sympa avec le mouvement
+  de la souris. le code est disponible sur [github](https://github.com/arnaudjuracek/www-arnaudjuracek) : )
+- [praticable](https://praticable.fr/): coopérative de design avec Pierre-Damien Huyghe. en plus de quelques textes
+  intéressants et d'une mise en page sympa organisée en blocs. possibilité d'éditer les blocs, drag and dropper ses 
+  blocs, ajouter du texte... le studio fait aussi de la recherche, il y a des articles sur l'accessibilité numérique
+  etc.
 
-## artistes, musicien.ne.s et labels
+## sites d'artistes et musicien.ne.s
 
 - [isa melsheimer](https://isamelsheimer.com/): artiste. site très contre-intuitif : )
 - [mohammed boursouissa](https://www.mohamedbourouissa.com/): <3 sur l'artiste 
 - [pc music](https://pcmusic.info/): magnifique bleu et magnifique transition du logo pleine-page à banner au début
-- [umru](https://umru.dj/): <3
+- [umru](https://umru.dj/): site très impact, avec des choses très sympa: zone graphique réactive au
+  scroll, logo drag-and-droppable
+
+## maisons d'édition, publication en ligne
+
+- [error.re](https://www.error.re), design et interactions assez incroyables
 - [éditions divergences](https://www.editionsdivergences.com/): <33
 
 ## divers
 
-- [error.re](https://www.error.re), design et interactions assez incroyables
 - [do not research](https://donotresearch.net/): plateforme qui publie des articles sur la politique
   post-internet / theorygram etc / la post-gauche etc. exemple d'un site *très* simple mais visuellement
   efficace.
 - [52emblemes](http://46.226.106.57/52emblemes/): card reading by the one and only jcc
+
