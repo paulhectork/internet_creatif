@@ -11,6 +11,38 @@ d'écritures/lectures propres au Web.
   une approche design interactive. cf [cet article](https://distill.pub/) et 
   [cet article](https://distill.pub/2020/communicating-with-interactive-articles/)
   sur l'écriture interactive.
+- [gitterature](https://www.cyberpoetique.org/gitterature/), et [ici](https://gitlab.com/antilivre/gitterature/)
+
+## sites de designers
+- [e+k](http://www.e-k.fr/): design et web design. design du magasine *Back Office*, du site *DesignSHS*...
+- [passages[...]](https://passages.site/): design du site du Musée de la Chasse et de la Nature. design sympa
+  avec une refléxion sur la représentation du texte de manière dynamique.
+- [stephen lumenta](https://stephenlumenta.com/): programmeur sur le site d'Isa Melsheimer, design ridiculement 
+  simple mais efficace : )
+- [quentin barba](https://quentinbarba.fr/): design très *impact*
+- [arnaud juracek](https://arnaudjuracek.fr/): truc tout simple, mais interaction très sympa avec le mouvement
+  de la souris. le code est disponible sur [github](https://github.com/arnaudjuracek/www-arnaudjuracek) : )
+- [praticable](https://praticable.fr/): coopérative de design avec Pierre-Damien Huyghe. en plus de quelques textes
+  intéressants et d'une mise en page sympa organisée en blocs. possibilité d'éditer les blocs, drag and dropper ses 
+  blocs, ajouter du texte... le studio fait aussi de la recherche, il y a des articles sur l'accessibilité numérique
+  etc.
+
+## maisons d'édition, publication en ligne
+
+- [abrput.cc](https://abrupt.cc/): maison d'édition au design assez génial, avec une refléxion sur la publication
+  numérique, auteurices de tout un tas de sites et expérimentations
+- [error.re](https://www.error.re), par `abrupt.cc`, design et interactions assez incroyables
+- [antilivre](https://www.antilivre.org/), par `abrupt.cc`, publication numérique très créative
+- [cyberpoétique](https://www.cyberpoetique.org/): là aussi, de l'écriture numérique très créative par les gens d'abrupt
+- [éditions divergences](https://www.editionsdivergences.com/): <33
+
+## sites d'artistes et musicien.ne.s
+
+- [isa melsheimer](https://isamelsheimer.com/): artiste. site très contre-intuitif : )
+- [mohammed boursouissa](https://www.mohamedbourouissa.com/): <3 sur l'artiste 
+- [pc music](https://pcmusic.info/): magnifique bleu et magnifique transition du logo pleine-page à banner au début
+- [umru](https://umru.dj/): site très impact, avec des choses très sympa: zone graphique réactive au
+  scroll, logo drag-and-droppable
 
 ## sites de chercheur.euse.s et de recherche
 
@@ -30,37 +62,10 @@ d'écritures/lectures propres au Web.
 - [richard stallman](https://stallman.org/): à peine une ligne de css là dedans, un site franchement
   dur à lire, pour se rapeler ce que le css change dans la vie de tous les jours : )
 
-## sites de designers
-- [e+k](http://www.e-k.fr/): design et web design. design du magasine *Back Office*, du site *DesignSHS*...
-- [passages[...]](https://passages.site/): design du site du Musée de la Chasse et de la Nature. design sympa
-  avec une refléxion sur la représentation du texte de manière dynamique.
-- [stephen lumenta](https://stephenlumenta.com/): programmeur sur le site d'Isa Melsheimer, design ridiculement 
-  simple mais efficace : )
-- [quentin barba](https://quentinbarba.fr/): design très *impact*
-- [arnaud juracek](https://arnaudjuracek.fr/): truc tout simple, mais interaction très sympa avec le mouvement
-  de la souris. le code est disponible sur [github](https://github.com/arnaudjuracek/www-arnaudjuracek) : )
-- [praticable](https://praticable.fr/): coopérative de design avec Pierre-Damien Huyghe. en plus de quelques textes
-  intéressants et d'une mise en page sympa organisée en blocs. possibilité d'éditer les blocs, drag and dropper ses 
-  blocs, ajouter du texte... le studio fait aussi de la recherche, il y a des articles sur l'accessibilité numérique
-  etc.
-
-## sites d'artistes et musicien.ne.s
-
-- [isa melsheimer](https://isamelsheimer.com/): artiste. site très contre-intuitif : )
-- [mohammed boursouissa](https://www.mohamedbourouissa.com/): <3 sur l'artiste 
-- [pc music](https://pcmusic.info/): magnifique bleu et magnifique transition du logo pleine-page à banner au début
-- [umru](https://umru.dj/): site très impact, avec des choses très sympa: zone graphique réactive au
-  scroll, logo drag-and-droppable
-
-## maisons d'édition, publication en ligne
-
-- [error.re](https://www.error.re), design et interactions assez incroyables
-- [éditions divergences](https://www.editionsdivergences.com/): <33
-
 ## divers
 
 - [do not research](https://donotresearch.net/): plateforme qui publie des articles sur la politique
-  post-internet / theorygram etc / la post-gauche etc. exemple d'un site *très* simple mais visuellement
+  post-internet / theorygram etc. exemple d'un site *très* simple mais visuellement
   efficace.
 - [52emblemes](http://46.226.106.57/52emblemes/): card reading by the one and only jcc
 
