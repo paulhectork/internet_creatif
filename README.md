@@ -11,7 +11,8 @@ d'écritures/lectures propres au Web.
   une approche design interactive. cf [cet article](https://distill.pub/) et 
   [cet article](https://distill.pub/2020/communicating-with-interactive-articles/)
   sur l'écriture interactive.
-- [gitterature](https://www.cyberpoetique.org/gitterature/), et [ici](https://gitlab.com/antilivre/gitterature/)
+- [gitterature](https://www.cyberpoetique.org/gitterature/), et [ici](https://gitlab.com/antilivre/gitterature/),
+  et [là aussi](https://framagit.org/gitterature/gitterature)
 
 ## sites de designers
 - [e+k](http://www.e-k.fr/): design et web design. design du magasine *Back Office*, du site *DesignSHS*...
