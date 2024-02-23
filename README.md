@@ -47,6 +47,11 @@ d'écritures/lectures propres au Web.
 
 ## sites de chercheur.euse.s et de recherche
 
+- [chromobase](https://chromobase.huma-num.fr/): un site BEAU visuellement et COMPLET scientifiquement.
+  des présentations intéressantes de filtres, des visualisations sympa en roue de couleurs et en frises 
+  chronologiques... design par Julie Blanc/Studio Cascade.
+- [héro.ine.s](https://repenserlesheros.femis.fr/): un site très basé sur le texte, avec un design assez 
+  simple mais élégant.
 - [designSHS](https://laboratoire-graphique.fr/): ANR en graphisme et sciences sociales
 - [anthony masure](https://www.anthonymasure.com/): recherche en design
 - [softphd.com](http://www.softphd.com/): thèse en site. tentative de développer une mise en page
