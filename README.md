@@ -6,6 +6,8 @@
 
 écriture interactive: articles qui combinent design, code et texte pour créer des formes
 d'écritures/lectures propres au Web.
+- [padatrad](https://gitlab.com/editionsburnaout/padatrad) (visité le 03.12.24): une
+  application pour la traduction collaborative et la mise en page dans un paradigme *web to print*
 - [parametric press](https://parametric.press/): tous les articles sont interactifs.
 - [distill](https://distill.pub/): revue maintenant inactive sur le machine learning avec
   une approche design interactive. cf [cet article](https://distill.pub/) et 
@@ -47,6 +49,8 @@ d'écritures/lectures propres au Web.
 
 ## sites de chercheur.euse.s et de recherche
 
+- [yann tridivic](https://www.yanntrividic.fr/): des liens vers des projets intéressants de publication 
+  collective et collaborative, et d'écriture nativement numérique
 - [chromobase](https://chromobase.huma-num.fr/): un site BEAU visuellement et COMPLET scientifiquement.
   des présentations intéressantes de filtres, des visualisations sympa en roue de couleurs et en frises 
   chronologiques... design par Julie Blanc/Studio Cascade.
