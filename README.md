@@ -74,6 +74,7 @@ d'écritures/lectures propres au Web.
 
 ## divers
 
+- [blamensir.neocities.org](https://blamensir.neocities.org/): pur banger, un site fait en manuscrits médiévaux
 - [do not research](https://donotresearch.net/): plateforme qui publie des articles sur la politique
   post-internet / theorygram etc. exemple d'un site *très* simple mais visuellement
   efficace.
