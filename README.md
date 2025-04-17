@@ -41,6 +41,7 @@ d'écritures/lectures propres au Web.
 
 ## sites d'artistes et musicien.ne.s
 
+- [kaoss edge](https://www.kaossedgeofficial.com/): le y2k si c'était bien
 - [isa melsheimer](https://isamelsheimer.com/): artiste. site très contre-intuitif : )
 - [mohammed boursouissa](https://www.mohamedbourouissa.com/): <3 sur l'artiste 
 - [pc music](https://pcmusic.info/): magnifique bleu et magnifique transition du logo pleine-page à banner au début
